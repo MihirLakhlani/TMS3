@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "firstname": "mihir",
+      "lastname": "lakhlani",
+      "email": "mihir@vebuin.com",
+      "phone": "65656565656",
+      "password": "jkhlnklhjkl",
+      "designation": "",
+      "id": 1
+    },
+    {
+      "firstname": "mihir",
+      "lastname": "lakhlani",
+      "email": "mihir.12252000@gmail.com",
+      "phone": "98698798",
+      "password": "chjhfff",
+      "designation": "",
+      "id": 2
+    },
+    {
+      "firstname": "mihir",
+      "lastname": "lakhlani",
+      "email": "mihir.12252000@gmail.com",
+      "phone": "+91 7990398170",
+      "password": "sf",
+      "designation": "",
+      "id": 3
+    },
+    {
+      "firstname": "mihir",
+      "lastname": "lakhlani",
+      "email": "mihir.12252000@gmail.com",
+      "phone": "1234567890",
+      "password": "kj",
+      "designation": "",
+      "id": 4
+    },
+    {
+      "firstname": "mihir",
+      "lastname": "lakhlani",
+      "email": "mihir12252000@gmail.com",
+      "phone": "98698798",
+      "password": "uyggj",
+      "designation": "",
+      "id": 5
+    },
+    {
+      "firstname": "mihir",
+      "lastname": "knj",
+      "email": "ughkg@gmail.com",
+      "phone": "uihiukb",
+      "password": "ouhiuh",
+      "designation": "",
+      "id": 6
+    },
+    {
+      "firstname": "mihir",
+      "lastname": "lakhlani",
+      "email": "mihir.12252000@gmail.com",
+      "phone": "1234567890",
+      "password": "jkbk",
+      "designation": "",
+      "id": 7
+    },
+    {
+      "firstname": "mihir",
+      "lastname": "lakhlani",
+      "email": "mihir.12252000@gmail.com",
+      "phone": "1234567890",
+      "password": "ger",
+      "designation": "",
+      "id": 8
+    },
+    {
+      "firstname": "mihir",
+      "lastname": "mihir",
+      "email": "mihir.12252000@gmail.com",
+      "phone": "1234567890",
+      "password": "bgf",
+      "designation": "",
+      "id": 9
+    },
+    {
+      "firstname": "xyz",
+      "lastname": "uih",
+      "email": "mihir12252000@gmail.com",
+      "phone": "+91 7990398170",
+      "password": "ut",
+      "designation": "",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
